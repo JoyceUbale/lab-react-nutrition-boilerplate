@@ -16,6 +16,7 @@ export default [{
   name:"oranges",
   cal:47,
 },
+
 {
   id:4,
   img:"https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/almonds-react.jpeg",
